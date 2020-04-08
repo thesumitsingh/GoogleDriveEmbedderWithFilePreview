@@ -22,4 +22,13 @@ A new page will open. Click on the button to enable the drive API. Then go to "c
 
 Don't add any restrictions if you aren't sure how restrictions work. The API key works fine without any restrictions and there is low chance of your API key being misused, since google provides the drive api for free, and it is practically unlimited (1 billion requests per day, and can be increased even more, if the first billion requests were genuine.)
 
+#Common Mistakes
+Make sure that the folder you are sharing is publicly viewable to anyone with the link. This is done in the sharing settings.
+
+If the folder you are sharing is actually a shortcut (Google has recently removed the option 'Add to My Drive' and replaced it with 'Add shortcut to drive') then it won't work properly. The shortcuts to files inside another folder will also not work.
+To solve this, you can download the folder, upload to your own Google Drive and then share the folder id.
+
+
+
+
 If you are facing any problems, contact me at studyforexams ( at ) gmail
