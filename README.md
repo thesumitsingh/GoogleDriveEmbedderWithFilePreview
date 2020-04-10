@@ -9,6 +9,11 @@ Embed the following code:
 
 <iframe src="https://googledriveembedder.collegefam.com/?key=YOUR_API_KEY>&folderid=THE_FOLDER_ID" style="border:none;" width="100%"></iframe>
 
+If yu want to hide the download button for files, simply add '&allowdl=no' at the end of iframe src:
+
+<iframe src="https://googledriveembedder.collegefam.com/?key=YOUR_API_KEY>&folderid=THE_FOLDER_ID&allowdl=no" style="border:none;" width="100%"></iframe>
+
+
 It works using an iframe and the website which is being embedded is guaranteed to be live forever (it runs on Google servers).
 
 # To get an API Key
