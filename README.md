@@ -1,4 +1,4 @@
-# GoogleDriveEmbedderWithFilePreview
+# Google Drive Embedder (With File Preview)
 A tool to easily embed google drive folder within websites, with the ability to navigate into subfolders and preview pdf, sheets, doc etc file types without making the user leave your website. Works on any webpage: Wordpress, Wix, Google Sites etc 
 
 I have created a tool to embed any Google Drive folder (publicly viewable) on any webpage. It has the ability to let the user navigate into subfolder, preview pdf/xls/doc etc files without making your visitor leave your webpage. The file preview opens in a modal window.
